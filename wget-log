@@ -1,0 +1,66 @@
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.tutorialspoint.com/jdbc/jdbc-like-clause.htm’
+
+
+
+2015-05-14 17:22:36 (48.7 KB/s) - ‘www.tutorialspoint.com/jdbc/jdbc-like-clause.htm’ saved [28165]
+
+--2015-05-14 17:22:36--  http://www.tutorialspoint.com/jdbc/jdbc-sorting-data.htm
+Connecting to www.tutorialspoint.com (www.tutorialspoint.com)|66.135.33.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.tutorialspoint.com/jdbc/jdbc-sorting-data.htm’
+
+
+
+2015-05-14 17:22:38 (14.3 KB/s) - ‘www.tutorialspoint.com/jdbc/jdbc-sorting-data.htm’ saved [28246]
+
+--2015-05-14 17:22:38--  http://www.tutorialspoint.com/jdbc/jdbc_interview_questions.htm
+Connecting to www.tutorialspoint.com (www.tutorialspoint.com)|66.135.33.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.tutorialspoint.com/jdbc/jdbc_interview_questions.htm’
+
+    [  <=>                                  ] 23,722      44.0B/s                  [   <=>                                 ] 53,662      99.6B/s   in 8m 59s  
+
+2015-05-14 17:31:38 (99.6 B/s) - ‘www.tutorialspoint.com/jdbc/jdbc_interview_questions.htm’ saved [53662]
+
+www.tutorialspoint.com/jdbc/jdbc_interview_questions.htm: No such file or directory
+--2015-05-14 17:31:38--  http://www.tutorialspoint.com/jdbc/jdbc-quick-guide.htm
+Connecting to www.tutorialspoint.com (www.tutorialspoint.com)|66.135.33.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.tutorialspoint.com/jdbc/jdbc-quick-guide.htm’
+
+     0K .......... .......... .......... ........              68.3K=0.6s
+
+2015-05-14 17:31:39 (68.3 KB/s) - ‘www.tutorialspoint.com/jdbc/jdbc-quick-guide.htm’ saved [39690]
+
+--2015-05-14 17:31:39--  http://www.tutorialspoint.com/jdbc/jdbc-useful-resources.htm
+Connecting to www.tutorialspoint.com (www.tutorialspoint.com)|66.135.33.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.tutorialspoint.com/jdbc/jdbc-useful-resources.htm’
+
+     0K .......... .......... .....                            11.1K=2.3s
+
+2015-05-14 17:31:42 (11.1 KB/s) - ‘www.tutorialspoint.com/jdbc/jdbc-useful-resources.htm’ saved [25904]
+
+--2015-05-14 17:31:42--  http://www.tutorialspoint.com/jdbc/jdbc-discussion.htm
+Connecting to www.tutorialspoint.com (www.tutorialspoint.com)|66.135.33.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.tutorialspoint.com/jdbc/jdbc-discussion.htm’
+
+     0K .......... .......... ..                               40.7K=0.6s
+
+2015-05-14 17:31:44 (40.7 KB/s) - ‘www.tutorialspoint.com/jdbc/jdbc-discussion.htm’ saved [23346]
+
+--2015-05-14 17:31:44--  http://www.tutorialspoint.com/jdbc/images/jdbc-mining.jpg
+Connecting to www.tutorialspoint.com (www.tutorialspoint.com)|66.135.33.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24136 (24K) [image/jpeg]
+Saving to: ‘www.tutorialspoint.com/jdbc/images/jdbc-mining.jpg’
+
+     0K .......... ..........
